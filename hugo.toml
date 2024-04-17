@@ -1,0 +1,41 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'zweifel'
+
+[params]
+about = "About me."
+meta = "My blog about software engineering, programming, and other things."
+author = "John Doe"
+authorTitle = "Software Engineer"
+numberOfPostsInHomePage = 10
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 1
+
+[[menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 2
+
+[[menus.main]]
+name = 'Reading'
+pageRef = '/reading'
+weight = 3
+
+[[menus.socials]]
+name = "Github"
+url = "https://github.com/"
+weight = 1
+
+[[menus.socials]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/"
+weight = 2
+
+[[menus.socials]]
+name = "Email"
+url = "mailto:johndoe@site.com"
+weight = 3

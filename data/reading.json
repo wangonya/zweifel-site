@@ -1,0 +1,27 @@
+[
+  {
+    "year": "2024",
+    "books": [
+      {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "rating": "5"
+      },
+      {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "rating": "4"
+      },
+      {
+        "title": "The Bell Jar",
+        "author": "Sylvia Plath",
+        "rating": "5"
+      },
+      {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "rating": "5"
+      }
+    ]
+  }
+]
